@@ -1,9 +1,4 @@
-#include <iostream>
- 
- using namespace std;
-  
- int main() {
-  cout << "Takes the majority of the math out of Engineering for Piston engines when it comes to Bore x Stroke into Cubic Inches and Liters along with Compression Ratios."
- };
-  
- // This is a *basic* Displacement Calculator for Piston engines as long as you have accounted for Bore and Stroke.
+/*
+This is a Displacement Calculator designed to aid design of Piston Engines.
+There is a lot of math involved when doing it on paper, so I wrote the program in both C++ and C# for easy use on Windows, Mac, and various Linux Distros.
+*/
