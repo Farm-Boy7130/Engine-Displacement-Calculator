@@ -40,4 +40,5 @@ double Liters_Displacement = CI_Displacement / 61.024; // Maths
 Console.WriteLine(CI_Displacement + " Cubic Inch(es)");  // Output of Displacement in Cubic Inch(es)
 Console.WriteLine(Liters_Displacement + " Liter(s)");  // Output of Displacement in Liter(s)
 
+Console.WriteLine("Press any key to continue.");
 Console.ReadLine();
