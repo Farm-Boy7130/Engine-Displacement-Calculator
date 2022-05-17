@@ -69,4 +69,7 @@ int main()
 	cout << CI_Displacement << " Cubic Inch(es)" << endl; // Output of Displacement in Cubic Inch(es)
 	cout << Liters_Displacement << " Liter(s)" << endl; // Output of Displacement in Liter(s)
 
+	char ignore;
+	cin >> ignore;
+	
 }
